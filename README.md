@@ -6,7 +6,7 @@
 Are you looking for SF's mobile controller? [UndeadSec/SocialFishMobile][sf-mobile]
 
 Are you looking for SF's old version(**Ngrok integrated**) ? [UndeadSec/SociaFish/.../sharkNet][sf-sharknet]
-
+Owner is BS
 #### SETUP AND RUNNING
 
 Visit the [wiki](https://github.com/UndeadSec/SocialFish/wiki) for more details.
